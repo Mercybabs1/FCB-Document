@@ -20,4 +20,4 @@ SELECT* FROM TABLE 1
 WHERE CONITION = NET
 ```
 
-![](new udemy 1.png)
+![](new new udemy 1.png)
