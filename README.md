@@ -22,3 +22,7 @@ WHERE CONITION = NET
 
 ![](my picture.jpg)
 
+
+|female|male|family|
+|------|------|-----|
+|4|5|3|
