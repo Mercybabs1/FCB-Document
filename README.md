@@ -20,7 +20,7 @@ SELECT* FROM TABLE 1
 WHERE CONITION = NET
 ```
 
-![](my picture.jpg)
+![](sales.png)
 
 
 |female|male|family|
